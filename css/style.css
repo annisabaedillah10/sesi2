@@ -1,0 +1,40 @@
+body {
+    background-color: pink;
+}
+header{
+    text-align: center;
+    color: black;
+    margin: 50px ;
+} 
+.page1{
+    display: flex;
+    margin-right: 20%;
+    margin-left: 20%;
+
+}
+.foto img{
+    width:350px;
+    height: 530px;
+}
+.item{
+    margin-left: 20px;
+    margin-bottom: 15px;
+    display:flex;
+    background-color: white;
+    
+}
+.text{
+    padding-left: 15px;
+
+}
+button{
+    background-color: black;
+    color: cornsilk;
+    width: 120px;
+    font-size: 25px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
